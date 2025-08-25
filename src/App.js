@@ -4,7 +4,7 @@ import './App.css';
 const App = () => {
   const socialLinks = [
     { name: 'LinkedIn', url: 'https://www.linkedin.com/in/bekastan-nasirov-a37258301/' },
-    { name: 'WebSite', url: 'https://my-sait-b7cc.vercel.app/' },
+    { name: 'WebSite', url: 'https://my-biography-nine.vercel.app/' },
     { name: 'YouTube', url: 'https://www.youtube.com/@5ekastan' },
     { name: 'GitHub', url: 'https://github.com/5ekastanx' },
     { name: 'Telegram', url: 'https://t.me/beka_stan' },
